@@ -85,3 +85,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=LuxeLoom-e-commerce-website&bg_color=00000000" alt="LuxeLoom E-commerce Website" />
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/gauravdevrani8/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=Portfolio&bg_color=00000000" alt="Portfolio" />
+  </a>
+</p>
