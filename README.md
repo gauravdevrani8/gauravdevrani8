@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/gauravdevrani" target="_blank">
+  <a href="https://dev.to/gaurav_8" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://linkedin.com/in/gauravdevrani" target="_blank">
