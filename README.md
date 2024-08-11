@@ -25,22 +25,59 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   </a>
-  <!-- Add more badges here -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  </a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
-</p>
-
-<h3 align="left">GitHub Streak:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Current Focus:</h3>
@@ -57,7 +94,7 @@
   💻 Exploring new design patterns and best practices in <strong>React</strong>
 </p>
 
-<h3 align="left">Featured Project:</h3>
+<h3 align="left">Featured Projects:</h3>
 <p align="left">
   <a href="https://github.com/gauravdevrani8/LuxeLoom-e-commerce-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=LuxeLoom-e-commerce-website&bg_color=00000000" alt="LuxeLoom E-commerce Website" />
