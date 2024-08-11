@@ -77,12 +77,16 @@
   <a href="https://github.com/gauravdevrani8">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdevrani8&layout=compact&langs_count=8&card_width=300&bg_color=00000000" alt="Top Languages" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent" alt="GitHub Streak" />
+</p>
+
+<h3 align="left">GitHub Trophies:</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gauravdevrani8&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
-<h3 align="left">Featured Project:</h3>
+<h3 align="left">Featured Projects:</h3>
 <p align="left">
   <a href="https://github.com/gauravdevrani8/LuxeLoom-e-commerce-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=LuxeLoom-e-commerce-website&bg_color=00000000" alt="LuxeLoom E-commerce Website" />
