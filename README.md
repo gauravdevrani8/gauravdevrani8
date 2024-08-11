@@ -49,17 +49,37 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  </a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
-  <img align="center" width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+</p>
+<p align="left">
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Current Focus:</h3>
