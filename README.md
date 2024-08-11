@@ -81,9 +81,21 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdevrani8&layout=compact&langs_count=8&card_width=300&bg_color=00000000" alt="Top Languages" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent" alt="GitHub Streak" />
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent" alt="GitHub Streak" />
   </a>
 </p>
+<h3 align="left">Activity Points:</h3>
+<p align="left">
+  🟢 <strong>React Activity Points:</strong>
+  <br> 📘 Exploring new design patterns and best practices in <strong>React</strong>
+  <br> 🛠️ Working on <strong>LuxeLoom</strong>, an e-commerce project built with <strong>React.js</strong>
+  <br> 💻 Learning advanced features in <strong>Next.js</strong>
+  <br> 📈 Implemented advanced state management using Redux in multiple projects
+  <br> 🎨 Designed dynamic user interfaces with React and TailwindCSS for seamless user experiences
+  <br> 🔄 Utilized React hooks to manage complex component logic and side effects efficiently
+  <br> 🧪 Experimented with performance optimization techniques in React applications
+</p>
+
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
@@ -95,19 +107,3 @@
   </a>
 </p>
 
-<h3 align="left">Activity Points:</h3>
-<p align="left">
-  🟢 <strong>React Activity Points:</strong>
-  <br> 🚀 Contributed to open-source React projects and developed reusable components.
-  <br> 📈 Implemented advanced state management using Redux in multiple projects.
-  <br> 🎨 Designed dynamic user interfaces with React and TailwindCSS for seamless user experiences.
-  <br> 🔄 Utilized React hooks to manage complex component logic and side effects efficiently.
-  <br> 🧪 Experimented with performance optimization techniques in React applications.
-</p>
-
-<h3 align="left">Achievements:</h3>
-<p align="left">
-  🏆 <strong>Top 10% in JavaScript Challenges:</strong> Achieved top rankings in various online coding challenges.
-  <br> 🥇 <strong>Featured Developer on Dev.to:</strong> Recognized for contributions and technical articles on Dev.to.
-  <br> 🎓 <strong>Certified MERN Stack Developer:</strong> Completed certification for MERN stack development.
-</p>
