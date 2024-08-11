@@ -69,6 +69,21 @@
   </a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
+</p>
+
 <h3 align="left">Current Focus:</h3>
 <p align="left">
   🚀 Expanding my knowledge in <strong>Node.js and Express</strong><br>
