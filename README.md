@@ -71,15 +71,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
-</p>
-<p align="left">
-  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
+  <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+  <img align="right" width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravdevrani8&show_icons=true&locale=en&layout=compact&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Current Focus:</h3>
