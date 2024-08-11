@@ -71,8 +71,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
-  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&locale=en&theme=radical" alt="gauravdevrani8"/>
+  <img align="center" width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=radical" alt="gauravdevrani8"/>
 </p>
 
 <h3 align="left">Most Used Languages:</h3>
