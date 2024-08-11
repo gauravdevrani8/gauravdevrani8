@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Gaurav Devrani</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+  🔭 I’m currently working on <a href="https://luxe-loom.vercel.app/" target="_blank">LuxeLoom</a><br>
+  🌱 I’m currently learning <strong>MERN</strong><br>
+  💬 Ask me about <strong>React, JavaScript</strong>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/gaurav_8" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://linkedin.com/in/gauravdevrani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -44,5 +63,33 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  </a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <a href="https://github.com/gauravdevrani8/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=gauravdevrani8&show_icons=true&bg_color=00000000" alt="Gaurav's GitHub stats" />
+  </a>
+  <a href="https://github.com/gauravdevrani8">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdevrani8&layout=compact&langs_count=8&card_width=300&bg_color=00000000" alt="Top Languages" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent" alt="GitHub Streak" />
+  </a>
+</p>
+
+<h3 align="left">Featured Project:</h3>
+<p align="left">
+  <a href="https://github.com/gauravdevrani8/LuxeLoom-e-commerce-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=LuxeLoom-e-commerce-website&bg_color=00000000" alt="LuxeLoom E-commerce Website" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/gauravdevrani8/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=Portfolio&bg_color=00000000" alt="Portfolio" />
   </a>
 </p>
