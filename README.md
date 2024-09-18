@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gaurav Devrani</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Gaurav Devrani</h1>
+<h3 align="left">Frontend Developer</h3>
 
-<p align="center">
+<p align="left">
   🔭 I’m currently working on <a href="https://luxe-loom.vercel.app/" target="_blank">LuxeLoom</a><br>
-  🌱 I’m currently learning <strong>MERN</strong><br>
+  🌱 I’m currently learning <strong>Python with Django</strong><br>
   💬 Ask me about <strong>React, JavaScript</strong>
 </p>
 
@@ -19,6 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </a>
@@ -61,6 +64,12 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
   </a>
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
+  </a>
+  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ShadCN_UI-1E3A8A?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
+  </a>
   <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
@@ -69,6 +78,9 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   </a>
 </p>
 
@@ -94,8 +106,8 @@
   <br> 🎨 Designed dynamic user interfaces with React and TailwindCSS for seamless user experiences
   <br> 🔄 Utilized React hooks to manage complex component logic and side effects efficiently
   <br> 🧪 Experimented with performance optimization techniques in React applications
+  <br> 🧩 Integrating various UI libraries for enhanced user experience
 </p>
-
 
 <h3 align="left">Featured Projects:</h3>
 <p align="left">
@@ -106,4 +118,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=Portfolio&bg_color=00000000" alt="Portfolio" />
   </a>
 </p>
-
