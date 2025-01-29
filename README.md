@@ -2,8 +2,8 @@
 <h3 align="left">Frontend Developer</h3>
 
 <p align="left">
-  🔭 I’m currently working on <a href="https://luxe-loom.vercel.app/" target="_blank">LuxeLoom</a><br>
-  🌱 I’m currently learning <strong>Python with Django</strong><br>
+<!--   🔭 I’m currently working on <a href="https://luxe-loom.vercel.app/" target="_blank">LuxeLoom</a><br>
+  🌱 I’m currently learning <strong>Python with Django</strong><br> -->
   💬 Ask me about <strong>React, JavaScript</strong>
 </p>
 
