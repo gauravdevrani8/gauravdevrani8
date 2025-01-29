@@ -2,6 +2,7 @@
 <h3 align="left">Frontend Developer</h3>
 
 <p align="left">
+<!--   🔭 I’m currently working on <a href="https://luxe-loom.vercel.app/" target="_blank">LuxeLoom</a><br> -->
   🌱 I’m currently learning <strong>Python with Django</strong><br> 
   💬 Ask me about <strong>React, JavaScript</strong>
 </p>
@@ -18,26 +19,68 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  </a>
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
+  </a>
+  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ShadCN_UI-1E3A8A?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN UI"/>
+  </a>
+  <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
-  <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PWA"/>
   </a>
 </p>
 
@@ -49,16 +92,21 @@
   <a href="https://github.com/gauravdevrani8">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdevrani8&layout=compact&langs_count=8&card_width=300&bg_color=00000000" alt="Top Languages" />
   </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravdevrani8&theme=transparent" alt="GitHub Streak" />
+  </a>
 </p>
-
 <h3 align="left">Activity Points:</h3>
 <p align="left">
   🟢 <strong>React Activity Points:</strong>
-  <br> 📘 Exploring new design patterns and best practices in <strong>React, React Native, and Django</strong>
+  <br> 📘 Exploring new design patterns and best practices in <strong>React</strong>
   <br> 🛠️ Working on <strong>LuxeLoom</strong>, an e-commerce project built with <strong>React.js</strong>
-  <br> 💻 Learning advanced features in <strong>Next.js and PWA development</strong>
+  <br> 💻 Learning advanced features in <strong>Next.js</strong>
   <br> 📈 Implemented advanced state management using Redux in multiple projects
-  <br> 🎨 Designed dynamic user interfaces with React, React Native, and TailwindCSS for seamless user experiences
+  <br> 🎨 Designed dynamic user interfaces with React and TailwindCSS for seamless user experiences
+  <br> 🔄 Utilized React hooks to manage complex component logic and side effects efficiently
+  <br> 🧪 Experimented with performance optimization techniques in React applications
+  <br> 🧩 Integrating various UI libraries for enhanced user experience
 </p>
 
 <h3 align="left">Featured Projects:</h3>
@@ -69,3 +117,4 @@
   <a href="https://github.com/gauravdevrani8/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravdevrani8&repo=Portfolio&bg_color=00000000" alt="Portfolio" />
   </a>
+</p> add react native also in ths
